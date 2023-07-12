@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .basisu = .{
-            .url = "https://github.com/hexops/basisu/archive/72cf42e95b9ff0258bd427ff96f7b70139d631f5.tar.gz",
-            .hash = "122044a43c075d9357bff82ab66358e95e29ef01197fcb8c650489abd83511e41d2f",
+            .url = "https://github.com/hexops/basisu/archive/3a5c043c9343b04339d4dea1c81c460f9e0d594b.tar.gz",
+            .hash = "1220f5b48c58a1d175467e413b7e1850d08084f563df0a67ed6cd16655b5605b1e18",
         },
     },
 }
